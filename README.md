@@ -7,7 +7,7 @@
 
 <hr/>
 
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="300" src="https://media.tenor.com/QVC1Nmb9TwUAAAAj/coding.gif">
 
 - 🔭 I’m currently working on **NextJs Project**
 
@@ -26,7 +26,7 @@
   <a href="mailto:q5500407@gmail.com">
     <img  align="center" src="" height="30" width="40"/>
   </a>
-   <a href="https://linkedin.com/in/https://www.linkedin.com/in/qurat-ul-ain-228609213/" target="_blank">
+   <a href="www.linkedin.com/in/qurat-ul-ain-228609213" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedIn icon" height="30" width="40" />
   </a>
 </p>
